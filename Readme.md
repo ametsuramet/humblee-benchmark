@@ -84,8 +84,8 @@ php -S localhost:4000 -t public
 
 *Lumen Script*
 
-##USING APACHE BENCHMARK
-## HUMBLEE
+## USING APACHE BENCHMARK
+### HUMBLEE
 ```bash
 ╰─$ ab -t 10 -c 10 http://localhost:3000/employees
 This is ApacheBench, Version 2.3 <$Revision: 1748469 $>
@@ -133,7 +133,7 @@ Percentage of the requests served within a certain time (ms)
  100%   6848 (longest request)
 ```
 
-## LUMEN
+### LUMEN
 ```bash
 ╰─$ ab -t 10 -c 10 http://localhost:4000/employees
 This is ApacheBench, Version 2.3 <$Revision: 1748469 $>
