@@ -1,0 +1,22 @@
+{
+    "name": "ametsuramet/humblee",
+    "description": "simple php framework",
+    "type": "framework",
+    "require": {
+        "php": ">=5.6.4",
+        "ametsuramet/humblee-framework": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amet suramet",
+            "email": "ametsuramet@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "minimum-stability": "dev"
+}
