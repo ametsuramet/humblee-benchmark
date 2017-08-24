@@ -77,7 +77,7 @@ php -S localhost:4000 -t public
 
 ### Lumen RESULT
 ![Lumen Result](https://raw.githubusercontent.com/ametsuramet/humblee-benchmark/master/Lumen-Employee.png)
-*1057ms for 100.000 record*
+*1569ms for 100.000 record*
 
 
 ![Lumen Script](https://raw.githubusercontent.com/ametsuramet/humblee-benchmark/master/Lumen-Script.png)
